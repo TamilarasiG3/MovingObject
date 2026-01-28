@@ -1,4 +1,4 @@
-🎥 Moving Object Detection using Python
+# 🎥 Moving Object Detection using Python
 
 A real-time moving object detection system built using Python and OpenCV.
 The project uses frame differencing and contour detection to identify motion from a live camera feed.
